@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use GeoInsight Pro 50 in academic work, please cite this software."
+title: "GeoInsight Pro 50"
+type: software
+authors:
+  - family-names: "CHAUDHARY"
+    given-names: "HIMANSHU KUMAR"
+year: 2026
+version: "50.0"
+license: MIT
+repository-code: "https://github.com/"
+abstract: "A student-oriented Geoinformatics workbench for GIS, remote sensing, spatial statistics, terrain analysis, MCDA and exploratory machine learning."
